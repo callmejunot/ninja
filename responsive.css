@@ -117,9 +117,15 @@ footer {
   line-height: 20px;
 }
 
-.footer-contact{
+footer {
+    text-align: center;
+    height: 160px;
+    }
+    
+.footer-contact, .footer-logo {
   padding-top: 10px;
   font-size: 10px;
+  float: none;
 }
 
 /* end junot */
