@@ -60,5 +60,22 @@
   width: 100%;
 }
 /* end darlan berita */
-}
+/* junot */
+  footer {
+    text-align: center;
+  }
+    
+  .header-right {
+    display: none;
+  }
+    
+  .footer-contact {
+      display: none;
+    }
+    
+  .menu-icon {
+    display: block;
+  }
+/* end junot */
+    
 /* end Untuk Smartphone */
