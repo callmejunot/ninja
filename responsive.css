@@ -117,10 +117,14 @@ footer {
   line-height: 20px;
 }
 
-.footer-contact{
-  padding-top: 10px;
-  font-size: 10px;
-}
+footer {
+    text-align: center;
+    height: 160px;
+  }
+
+  .footer-logo, .footer-contact {
+    float: none;
+  }
 
 /* end junot */
 
