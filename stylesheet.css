@@ -169,6 +169,7 @@ header {
   float: left;
   transition: all 0.5s;
   font-family: sans-serif;
+  text-decoration: none;
 }
 
 .header-right a:hover {
@@ -212,6 +213,7 @@ footer {
 .footer-contact a {
   color: white;
   margin: 5px 0;
+  text-decoration: none;
 }
 
 .footer-contact a:hover {
